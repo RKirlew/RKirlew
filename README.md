@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_images/1557196914352762880/9eC1skrx_400x400.jpg)](https://github.com/RKirlew)
+
 ### Hi there, I'm Raheem, software engineer and hacker 👋💻
 - 🎶 I’m currently working on Elm Media Player
 - 🌱 I’m currently learning C++
