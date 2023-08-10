@@ -10,9 +10,7 @@
 -
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKirlew)](https://git.io/streak-stats)
 
-[![Raheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkirlew)](https://github.com/rkirlew/github-readme-stats)
 
 <!--
 **RKirlew/RKirlew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
