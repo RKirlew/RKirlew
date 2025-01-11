@@ -1,7 +1,7 @@
 
   ### Hi there, I'm Raheem, software engineer and hacker 👋💻
               - 🎶 I’m currently working on Happen
-              - 🌱 I’m currently learning C++
+              - 🌱 I’m currently learning machine learning
               - 💬 Ask me about Web Application Security
               - 📫 How to reach me: https://rkirlew.github.io
               - ⚡ Fun fact: I used to want to be a theoretical physicist
