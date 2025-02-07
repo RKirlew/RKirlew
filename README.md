@@ -1,5 +1,5 @@
 
-  ### Hi there, I'm Raheem, software engineer and hacker 👋💻
+  ### Hi there, I'm Raheem, software engineer  👋💻
               - 🎶 I’m currently working on Happen
               - 🌱 I’m currently learning machine learning
               - 💬 Ask me about Web Application Security
